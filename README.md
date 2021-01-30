@@ -1,10 +1,5 @@
 ### Hi There
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/kristories"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-    <a href="https://stackoverflow.com/users/984422/wahyu-kristianto"><img src="https://img.shields.io/stackexchange/stackoverflow/r/984422?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=f3862e" height=25></a>
-</p>
-
 <table>
     <tr>
         <td>
@@ -19,3 +14,8 @@
         </td>
     </tr>
 </table>
+- 🔭 I’m currently working on Pt Purnama Pasifik Nuswantara, you can check <a href="https://purwantara.id">Purnama Pasifik Nuswantara</a>
+- 🌱 I’m currently learning NodeJs and ReactJs
+- 😄 I'm natively speak Indonesian and fluently speak english.
+- 💕 I'm currently fall in love with Laravel and Livewire
+- 📫 You can reach me at my instagram [@zhaasyft](https://instagram.com/zhaasyft)
