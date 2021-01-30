@@ -1,4 +1,4 @@
-[![](assets/cover.gif)](#)
+### Hi There
 
 <p align="center">
     <a href="https://www.linkedin.com/in/kristories"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
@@ -9,17 +9,13 @@
     <tr>
         <td>
             <a href="#">
-                <img src="https://github-readme-stats.vercel.app/api?username=Kristories&&show_icons=true&theme=graywhite&count_private=true&hide_border=true&include_all_commits=true&custom_title=Statistics&icon_color=aaaaaa" />
+                <img src="https://github-readme-stats.vercel.app/api?username=ezhasyafaat&&show_icons=true&theme=graywhite&count_private=true&hide_border=true&include_all_commits=true&custom_title=Statistics&icon_color=aaaaaa" />
             </a>
         </td>
         <td>
             <a href="#">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kristories&theme=graywhite&hide=css%2Chtml&layout=compact&langs_count=10&hide_border=true&card_width=445" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhasyafaat&theme=graywhite&hide=css%2Chtml&layout=compact&langs_count=10&hide_border=true&card_width=445" />
             </a>
         </td>
     </tr>
 </table>
-
-<p align="center">
-    <a href="https://sourcerer.io/kristories"><img src="https://img.shields.io/badge/Check out full analytics on SOURCERER-%230A0A0A.svg?style=for-the-badge" height=25></a>
-</p>
