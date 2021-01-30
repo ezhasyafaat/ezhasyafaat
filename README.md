@@ -1,5 +1,12 @@
 ### Hi There
 
+- 🔭 I’m currently working on Pt Purnama Pasifik Nuswantara, you can check <a href="https://purwantara.id">Purnama Pasifik Nuswantara</a>
+- 🌱 I’m currently learning NodeJs and ReactJs
+- 😄 I'm natively speak Indonesian and fluently speak english.
+- 💕 I'm currently fall in love with Laravel and Livewire
+- 📫 You can reach me at my instagram [@zhaasyft](https://instagram.com/zhaasyft)
+
+
 <table>
     <tr>
         <td>
@@ -14,8 +21,3 @@
         </td>
     </tr>
 </table>
-- 🔭 I’m currently working on Pt Purnama Pasifik Nuswantara, you can check <a href="https://purwantara.id">Purnama Pasifik Nuswantara</a>
-- 🌱 I’m currently learning NodeJs and ReactJs
-- 😄 I'm natively speak Indonesian and fluently speak english.
-- 💕 I'm currently fall in love with Laravel and Livewire
-- 📫 You can reach me at my instagram [@zhaasyft](https://instagram.com/zhaasyft)
