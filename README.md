@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning NodeJs and ReactJs
 - 😄 I'm natively speak Indonesian and fluently speak english.
 - 💕 I'm currently fall in love with Laravel and Livewire
-- 📫 You can reach me at my instagram [@zhaasyft](https://instagram.com/zhaasyft)
+- 📫 You can reach me at my instagram [@ezxxcode](https://instagram.com/ezxxcode)
 
 
 <table>
