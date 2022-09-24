@@ -1,3 +1,7 @@
+![NodeJs](https://img.shields.io/badge/NodeJs-Skilled-green)
+![PHP](https://img.shields.io/badge/PHP-Advanced-blue)
+![Laravel](https://img.shields.io/badge/Laravel-Advanced-red)
+![Python](https://img.shields.io/badge/Python-Beginner-yellow)
 <img src="ezhasyafaat.png" align="right">
 
 ### Hi There 👋
