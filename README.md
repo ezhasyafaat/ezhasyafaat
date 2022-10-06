@@ -20,4 +20,3 @@ I currently work as Software Engineer at [Purwantara](https://purwantara.id), an
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PGSQL](https://img.shields.io/badge/-PostgreSQL-%234169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![FIREBASE](https://img.shields.io/badge/-FIREBASE-%23FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
