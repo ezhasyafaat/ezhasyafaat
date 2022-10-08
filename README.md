@@ -1,6 +1,6 @@
 ### Muh Ezha Syafaat
 
-**`🎈Web Developer`**
+**`🎈 Web Developer`**
 
 I'am a Web Developer. I'am also an open source enthusiast. I love to contribute and sharing knowledge through open source project. Im so happy if what I do can be useful for others in the future. Outside of programming, i also enjoy playing music, especially guitar.
 
