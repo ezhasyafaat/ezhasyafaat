@@ -1,8 +1,21 @@
-### Hi There 👋
+### Muh Ezha Syafaat
 
-I am Muh Ezha Syafaat, a creative developer and laravel enthusiast, interest about Open Source, Linux, PHP.
+**`🎈Web Developer`**
 
-I currently work as Software Engineer at [Purwantara](https://purwantara.id), and you can find me on [Instagram](https://instagram.com/zhaasyft) & [Twitter](https://www.twitter.com/zhaasyft)
+I'am a Web Developer. I'am also an open source enthusiast. I love to contribute and sharing knowledge through open source project. Im so happy if what I do can be useful for others in the future. Outside of programming, i also enjoy playing music, especially guitar.
+
+I currently work as Software Engineer at [Purwantara](https://purwantara.id), and you can find me on :
+<p align="left">
+    <a href="https://www.instagram.com/zhaasyft">
+        <img alt="Instagram" title="Follow my instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+    </a>
+    <a href="https://www.twitter.com/zhaasyft">
+        <img alt="Twitter" title="Follow my twitter" src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/zhaasyft/">
+        <img alt="Instagram" title="Follow my instagram" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+    </a>
+</p>
 
 ### 🧰 Languages and Tools
 
@@ -21,4 +34,3 @@ I currently work as Software Engineer at [Purwantara](https://purwantara.id), an
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Nginx" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-
