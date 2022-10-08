@@ -4,19 +4,21 @@ I am Muh Ezha Syafaat, a creative developer and laravel enthusiast, interest abo
 
 I currently work as Software Engineer at [Purwantara](https://purwantara.id), and you can find me on [Instagram](https://instagram.com/zhaasyft) & [Twitter](https://www.twitter.com/zhaasyft)
 
-### ❗️STACK I USE :
+### 🧰 Languages and Tools
 
-![LARAVEL](https://img.shields.io/badge/-LARAVEL-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
-![NODEJS](https://img.shields.io/badge/-NODE.JS-%23405263?style=for-the-badge&logo=Node.js&logoColor=%23339933)
-![PYTHON](https://img.shields.io/badge/-PYTHON-%233776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![UBUNTU](https://img.shields.io/badge/-UBUNTU-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![NEXTJS](https://img.shields.io/badge/-NEXT.JS-%230082C9?style=for-the-badge&logo=Next.js&logoColor=white)
-![NUXTJS](https://img.shields.io/badge/-NUXT.JS-%2300DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white)
-![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-%23405263?style=for-the-badge&logo=TypeScript&logoColor=%233178C6)
-![NGINX](https://img.shields.io/badge/-NGINX-%23009639?style=for-the-badge&logo=NGINX&logoColor=white)
-![LIVEWIRE](https://img.shields.io/badge/-LIVEWIRE-%234E56A6?style=for-the-badge&logo=Livewire&logoColor=white)
-![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-%2306B6D4?style=for-the-badge&logo=TailwindCss&logoColor=white)
-![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![MYSQL](https://img.shields.io/badge/-MYSQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![PGSQL](https://img.shields.io/badge/-PostgreSQL-%234169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="NuxtJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"/>
+<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Nginx" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+
