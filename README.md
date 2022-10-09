@@ -17,6 +17,8 @@ I currently work as Software Engineer at [Purwantara](https://purwantara.id), an
     </a>
 </p>
 
+[![@ezhasyafaat's Holopin board](https://holopin.io/api/user/board?user=ezhasyafaat)](https://holopin.io/@ezhasyafaat)
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
