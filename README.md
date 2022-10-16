@@ -15,6 +15,9 @@ I currently work as Software Engineer at [Purwantara](https://purwantara.id), an
     <a href="https://www.linkedin.com/in/zhaasyft/">
         <img alt="Instagram" title="Follow my instagram" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
     </a>
+    <a href="https://speakerdeck.com/ezhasyafaat/open-source-in-fintech-industry">
+        <img alt="Instagram" title="My Speaker Deck" src="https://img.shields.io/badge/-Open Source In Fintech Industry-%23009287?style=for-the-badge&logo=Speaker Deck&logoColor=white">
+    </a>
 </p>
 
 [![@ezhasyafaat's Holopin board](https://holopin.io/api/user/board?user=ezhasyafaat)](https://holopin.io/@ezhasyafaat)
